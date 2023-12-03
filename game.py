@@ -10,7 +10,9 @@ def new_game():
 
     for key in questions.keys():
         print("----------------------------")
-        print(key)
+        print(key)hhhhh
+
+
 
         my_list = list(answers[question_number - 1].values())
         random.shuffle(my_list)
