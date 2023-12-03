@@ -9,7 +9,7 @@ def new_game():
     question_number = 1
 
     for key in questions.keys():
-        print("----------------------------")
+        print("----------------------------")ss
         print(key)hhhhh
 
 
